@@ -41,6 +41,6 @@ manjeet.display();
 }
 
 /* output:
-146	Harsh	300000
-146	Harsh	300000
+107	Sid	300000
+107	Sid	300000
 */
