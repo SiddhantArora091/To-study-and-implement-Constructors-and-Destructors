@@ -31,7 +31,7 @@ student::student(int no,char n[],double f)
 
 int main()
 {
-    student s(146,"Harsh",300000);
+    student s(100,"sid",300000);
 s.display();
 
     student manjeet(s);  
@@ -41,6 +41,6 @@ manjeet.display();
 }
 
 /* output:
-107	Sid	300000
-107	Sid	300000
+100	Sid	300000
+100	Sid	300000
 */
